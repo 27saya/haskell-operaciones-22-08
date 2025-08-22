@@ -65,7 +65,7 @@
 
       <img width="142" height="32" alt="imagen_2025-08-21_230848793" src="https://github.com/user-attachments/assets/3af9af32-8b8d-45b0-a615-aa5175450fb5" />
 
-   Lo cual ejecutara el codigo de la tarea, es algo sencillo.
+   Lo cual ejecutara el codigo de la tarea, mostrando los resultados de las operaciones. Es algo sencillo.
 
 
 
