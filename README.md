@@ -51,6 +51,27 @@
 
 
 
+2. Como ejecutar el archivo.hs?:
+   
+   Para ejecutar el archivo de Haskell, se necesita tener instalado el compilador ghc y tener guardado el programa haskell2208ar.hs en el dispositivo, es importante asegurarse de que el archivo este guardado en la misma carpeta que el Command Prompt esta analizando. Una vez esto hecho, ejecutamos el siguiente comando:
+
+      <img width="194" height="18" alt="Screenshot 2025-08-21 230557" src="https://github.com/user-attachments/assets/d1762e4f-99b8-4dc1-bcfc-a494224a721a" />
+      
+   Lo cual abrira lo siguiente:
+
+      <img width="674" height="34" alt="Screenshot 2025-08-21 230610" src="https://github.com/user-attachments/assets/de68634c-c069-4e20-bbe8-597ed48fe167" />
+
+   Una vez aparezca esto, ponemos el siguiente comando en la consola:
+
+      <img width="142" height="32" alt="imagen_2025-08-21_230848793" src="https://github.com/user-attachments/assets/3af9af32-8b8d-45b0-a615-aa5175450fb5" />
+
+   Lo cual ejecutara el codigo de la tarea, es algo sencillo.
+
+
+
+
+
+
 
 
 
